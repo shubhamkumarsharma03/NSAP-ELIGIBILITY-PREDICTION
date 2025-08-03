@@ -43,15 +43,16 @@ Build a reliable machine learning classifier to predict eligibility for:
 ## 📸 Results
 
 ### 🔷 AutoAI Pipeline Leaderboard
-![AutoAI Leaderboard](images/autoai_leaderboard.png)
+![AutoAI Leaderboard](images/training.png)
+
+
+### ✅ Various Model training with dataset
+![Model Output](images/training_models.png)
 
 ### ✅ Best Model Output Example
-![Model Output](images/best_model_output.png)
+![Model Output](images/prediction_result.png)
 
-### 🚀 Deployed Watsonx Interface
-![Deployment UI](images/deployment_ui.png)
 
-> 📁 Place your screenshots in a folder named `images/` in the repo root
 
 ---
 
